@@ -1,0 +1,59 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Author:</strong>
+  <%= @publication.author %>
+</p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @publication.title %>
+</p>
+
+<p>
+  <strong>Data:</strong>
+  <%= @publication.data %>
+</p>
+
+<p>
+  <strong>Isbn:</strong>
+  <%= @publication.isbn %>
+</p>
+
+<p>
+  <strong>Url:</strong>
+  <%= @publication.url %>
+</p>
+
+<p>
+  <strong>Page one url:</strong>
+  <%= @publication.page_one_url %>
+</p>
+
+<p>
+  <strong>Doi:</strong>
+  <%= @publication.doi %>
+</p>
+
+<p>
+  <strong>Mr:</strong>
+  <%= @publication.mr %>
+</p>
+
+<p>
+  <strong>Zbl:</strong>
+  <%= @publication.zbl %>
+</p>
+
+<p>
+  <strong>Owp:</strong>
+  <%= @publication.owp %>
+</p>
+
+<p>
+  <strong>Arxiv:</strong>
+  <%= @publication.arxiv %>
+</p>
+
+<%= link_to 'Edit', edit_publication_path(@publication) %> |
+<%= link_to 'Back', publications_path %>
