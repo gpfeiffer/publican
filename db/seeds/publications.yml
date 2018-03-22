@@ -1,5 +1,5 @@
 - author: Meinolf Geck and Götz Pfeiffer
-  title: Characters of Finite Coxeter Groups and Iwahori--Hecke Algebras
+  title: Characters of Finite Coxeter Groups and Iwahori-Hecke Algebras
   data: >-
     London Mathematical Society Monographs, New Series 21.
     Oxford University Press, 2000. xvi+446 pp.
@@ -9,7 +9,7 @@
 
 - author: Alice C. Niemeyer, Götz Pfeiffer and Cheryl E. Praeger
   title: >-
-    On the Complexity of Multiplication in the Iwahori--Hecke Algebra
+    On the Complexity of Multiplication in the Iwahori-Hecke Algebra
     of the Symmetric Group
   data: 15 pages, to appear in J. Symb. Comp.
   doi: 10.1016/j.jsc.2016.09.001
@@ -25,7 +25,7 @@
   title: >-
     Computations for Coxeter arrangements and Solomon's descent algebra III:
     Groups of rank seven and eight
-  data: J. Algebra 423 (2015), 1213--1232
+  data: J. Algebra 423 (2015), 1213-1232
   doi: 10.1016/j.jalgebra.2014.10.025
   mr: 3283755
   zbl: 1306.20004
@@ -34,7 +34,7 @@
 - author: J. Matthew Douglass, Götz Pfeiffer and Gerhard Röhrle
   title: >-
     Cohomology of Coxeter Arrangements and Solomon's Descent Algebra
-  data: Trans. Amer. Math. Soc. 366 (2014), no. 10, 5379--5407
+  data: Trans. Amer. Math. Soc. 366 (2014), no. 10, 5379-5407
   doi: 10.1090/S0002-9947-2014-06060-1
   mr: 3240927
   zbl: 06346330
@@ -43,7 +43,7 @@
 
 - author: J. Matthew Douglass, Götz Pfeiffer and Gerhard Röhrle
   title: On Reflection Subgroups of Finite Coxeter Groups
-  data: Comm. Algebra 41 (2013), no. 7, 2574--2592
+  data: Comm. Algebra 41 (2013), no. 7, 2574-2592
   doi: 10.1080/00927872.2012.661005
   mr: 3169410
   zbl: 1282.20040
@@ -53,7 +53,7 @@
 - author: Liam Naughton and Götz Pfeiffer
   title: >-
     Integer Sequences Realized by the Subgroup Pattern of the Symmetric Group
-  data: J.\ Integer Seq. 16 (2013), no. 5, Article 13.5.8, 23 pages
+  data: J. Integer Seq. 16 (2013), no. 5, Article 13.5.8, 23 pages
   url: >-
     https://cs.uwaterloo.ca/journals/JIS/VOL16/Naughton/naughton2.html
   mr: 3065337
@@ -63,7 +63,7 @@
 - author: Marcus Bishop and Götz Pfeiffer
   title: >-
     On the Quiver Presentation of the Descent Algebra of the Symmetric Group
-  data: J. Algebra 383 (2013), 212--231
+  data: J. Algebra 383 (2013), 212-231
   doi: 10.1016/j.jalgebra.2013.02.027
   mr: 3037976
   zbl: 1291.20003
@@ -73,7 +73,7 @@
   title: >-
     Computations for Coxeter arrangements and Solomon's descent algebra II:
     Groups of rank five and six
-  data: J. Algebra 377 (2013), 320--332
+  data: J. Algebra 377 (2013), 320-332
   doi: 10.1016/j.jalgebra.2012.11.047
   mr: 3008911
   zbl: 1277.20007
@@ -83,7 +83,7 @@
   title: >-
     Computations for Coxeter arrangements and Solomon's descent algebra:
     Groups of rank three and four
-  data: J. Symbolic Comput. 50 (2013), 139--158
+  data: J. Symbolic Comput. 50 (2013), 139-158
   doi: 10.1016/j.jsc.2012.06.001
   mr: 2996872
   zbl: 1257.20004
@@ -91,7 +91,7 @@
 
 - author: Liam Naughton and Götz Pfeiffer
   title: Computing the Table of Marks of a Cyclic Extension
-  data: Math. Comp. 81 (2012), no. 280, 2419--2438.
+  data: Math. Comp. 81 (2012), no. 280, 2419-2438
   doi: 10.1090/S0025-5718-2012-02600-7
   mr: 2945164
   zbl: 1282.20015
@@ -100,7 +100,7 @@
 - author: J. Matthew Douglass, Götz Pfeiffer and Gerhard Röhrle
   title: >-
     An Inductive Approach to Coxeter Arrangements and Solomon's Descent Algebra
-  data: J. Algebraic Combin. 35 (2012), no. 2, 215--235
+  data: J. Algebraic Combin. 35 (2012), no. 2, 215-235
   doi: 10.1007/s10801-011-0301-9
   mr: "2886288(2012m:05431)"
   zbl: 1248.20006
@@ -109,7 +109,7 @@
 
 - author: Matjaž Konvalinka, Götz Pfeiffer and Class Röver
   title: A Note on Element Centralizers in Finite Coxeter Groups
-  data: J. Group Theory 14 (2011), no. 5, 727--745
+  data: J. Group Theory 14 (2011), no. 5, 727-745
   doi: 10.1515/JGT.2011.074
   mr: 2831968(2012j:20125)
   zbl: 1245.20045
@@ -118,7 +118,7 @@
 - author: Götz Pfeiffer
   title: >-
     A Quiver Presentation for Solomon's Descent Algebra
-  data: Adv. Math. 220 (2009), no.~5, 1428--1465
+  data: Adv. Math. 220 (2009), no.~5, 1428-1465
   doi: 10.1016/j.aim.2008.11.005
   mr: "2493617(2010b:16028)"
   zbl: 1203.20004
@@ -127,7 +127,7 @@
 - author: C. Bonnafé and Götz Pfeiffer
   title: >-
     Around Solomon's Descent Algebras
-  data: Algebr. Represent. Theory 11 (2008), no. 6, 577--602
+  data: Algebr. Represent. Theory 11 (2008), no. 6, 577-602
   doi: 10.1007/s10468-008-9090-9
   mr: "2453230(2010d:20046)"
   zbl: 1193.20046
@@ -136,10 +136,10 @@
 - author: Robert Boltje and Götz Pfeiffer
   title: An algorithm for the unit group of the Burnside ring of a finite group
   data: >-
-    In: C. M. Campbell, M. R. Quick, E. F.\
-    Robertson and G. C. Smith (eds.), \emph{Groups St Andrews 2005 Volume 1},
-    LMS Lecture Note Series 339, Cambridge University Press 2007, pp. 230--236.
-  doi: 10.1017/CBO9780511721212.015}.
+    In: C. M. Campbell, M. R. Quick, E. F. Robertson and G. C. Smith (eds.),
+    Groups St Andrews 2005 Volume 1,
+    LMS Lecture Note Series 339, Cambridge University Press 2007, pp. 230-236
+  doi: 10.1017/CBO9780511721212.015
   mr: "2328162(2008k:19001)"
   zbl: 1111.19001
   arxiv: 0808.1232
@@ -147,7 +147,7 @@
 - author: Götz Pfeiffer and Gerhard Röhrle
   title: >-
     Special Involutions and Bulky Parabolic Subgroups in Finite Coxeter Groups
-  data: J. Aust.  Math. Soc. 79 (2005), no. 1, 141--147
+  data: J. Aust.  Math. Soc. 79 (2005), no. 1, 141-147
   doi: 10.1017/S1446788700009381
   mr: "2161180(2006d:20068)"
   zbl: 1078.20042
@@ -163,14 +163,14 @@
 
 - author: Götz Pfeiffer and Gerhard Röhrle
   title: Distributive coset graphs of finite Coxeter groups
-  data: J. Group Theory 6 (2003), no. 3, 311--320
+  data: J. Group Theory 6 (2003), no. 3, 311-320
   doi: 10.1515/jgth.2003.021
   mr: "1983369(2004d:20043)"
   zbl: 1062.20045
 
 - author: M. D. Atkinson, G. Pfeiffer and S. v. Willigenburg
   title: The $p$-modular descent algebras
-  data: Algebr.  Represent. Theory 5 (2002), no. 1, 101--113
+  data: Algebr.  Represent. Theory 5 (2002), no. 1, 101-113
   doi: 10.1023/A:1014413413572
   mr: "1890595(2003f:20058)"
   zbl: 1087.20031
@@ -178,7 +178,7 @@
 
 - author: S. A. Linton, G. Pfeiffer, E. F. Robertson, and N. Ruškuc
   title: Computing Transformation Semigroups
-  data: J. Symbolic Comput. 33 (2002), no. 2, 145--162
+  data: J. Symbolic Comput. 33 (2002), no. 2, 145-162
   doi: 10.1006/jsco.2000.0406
   mr: "1879378(2002k:20112)"
   zbl: 1002.20043
@@ -187,21 +187,21 @@
   title: >-
     Minimal length elements in twisted conjugacy classes of finite
     Coxeter groups
-  data: J. Algebra 229 (2000), no. 2, 570--600
+  data: J. Algebra 229 (2000), no. 2, 570-600
   doi: 10.1006/jabr.1999.8253
   mr: "1769289(2001h:20049)"
   zbl: 1042.20026
 
 - author: Thomas Breuer and Götz Pfeiffer
   title: Finding Possible Permutation Characters
-  data: J. Symbolic Comput. 26 (1998), no. 3, 343--354
+  data: J. Symbolic Comput. 26 (1998), no. 3, 343-354
   doi: 10.1006/jsco.1998.0217
   mr: 1633876(99e:20005)
   zbl: 0921.20013
 
 - author: S. A. Linton, G. Pfeiffer, E. F. Robertson, and N. Ruškuc
   title: Groups and Actions in  Transformation Semigroups
-  data: Math. Z. 228 (1998), no. 3, 435--450
+  data: Math. Z. 228 (1998), no. 3, 435-450
   doi: 10.1007/PL00004628
   mr: "1637855(99e:20078)"
   zbl: 0902.20028
@@ -210,25 +210,25 @@
   title: >-
     The Subgroups of $M_{24}$ or How to Compute the Table of Marks
     of a Finite Group
-  data: Experiment. Math. 6 (1997), no. 3, 247--270.
+  data: Experiment. Math. 6 (1997), no. 3, 247-270
   url: >-
     http://projecteuclid.org/euclid.em/1047920424
   mr: "1481593(98h:20032)"
   zbl: 0895.20017
 
 - author: Götz Pfeiffer
-  title: Character Values of Iwahori--Hecke  Algebras of Type $B$
+  title: Character Values of Iwahori-Hecke  Algebras of Type $B$
   data: >-
     In: Marc Cabanes (Ed.), Finite Reductive Groups, Related
     Structures  and  Representations (Luminy, 1994)},
-    Progr. Math. 141, Birkhäuser, Boston 1997, pp. 333--360.
+    Progr. Math. 141, Birkhäuser, Boston 1997, pp. 333-360.
   mr: "1429879(98a:20008)"
   zbl: 0876.20011
 
 - author: Meinolf Geck, Gerhard Hiß, Frank Lübeck, Gunter Malle and Götz Pfeiffer
   title: >-
     CHEVIE - A System for Computing and Processing Generic Character Tables
-  data: Appl. Algebra Engrg. Comm. Comput. 7 (1996), no. 3, 175--210
+  data: Appl. Algebra Engrg. Comm. Comput. 7 (1996), no. 3, 175-210
   doi: 10.1007/s002000050027
   mr: "1486215(99m:20017)"
   zbl: 0847.20006
@@ -236,28 +236,28 @@
 - author: Götz Pfeiffer
   title: >-
     Young characters on Coxeter  basis elements of
-    Iwahori--Hecke  algebras and a  Murnaghan--Nakayama formula
-  data: J.  Algebra 168 (1994), no. 2, 525--535
+    Iwahori-Hecke  algebras and a  Murnaghan-Nakayama formula
+  data: J.  Algebra 168 (1994), no. 2, 525-535
   doi: 10.1006/jabr.1994.1243
   mr: "1292779(95g:20012)"
   zbl: 0834.20013
 
 - author: Götz Pfeiffer
   title: Character tables of Weyl groups in GAP
-  data: Bayreuth. Math. Schr. 47 (1994), 165--222.
+  data: Bayreuth. Math. Schr. 47 (1994), 165-222
   mr: "1285208(95d:20027)"
   zbl: 0830.20023
 
 - author: Meinolf Geck and Götz Pfeiffer
   title: On the irreducible characters of Hecke algebras
-  data: Adv. Math. 102 (1993), no. 1, 79--94
+  data: Adv. Math. 102 (1993), no. 1, 79-94
   doi: 10.1006/aima.1993.1056
   mr: "1250466(94m:20018)"
   zbl: 0816.20034
 
 - author: Meinolf Geck and Götz Pfeiffer
   title: Unipotent characters of the Chevalley groups ${D}_4(q)$, $q$ odd
-  data: Manuscripta Math. 76 (1992), no. 3-4, 281--304
+  data: Manuscripta Math. 76 (1992), no. 3-4, 281-304
   doi: 10.1007/BF02567762
   mr: "1185021(93j:20035)"
   zbl: 0813.20016

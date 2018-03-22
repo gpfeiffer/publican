@@ -1,19 +1,18 @@
+<div class="col-sm-12">
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Author:</strong>
+<h3>
   <%= @publication.author %>
-</p>
+</h3>
 
-<p>
-  <strong>Title:</strong>
+<h1>
   <%= @publication.title %>
-</p>
+</h1>
 
 <p>
-  <strong>Data:</strong>
   <%= @publication.data %>
 </p>
+
 
 <p>
   <strong>Isbn:</strong>
@@ -21,39 +20,41 @@
 </p>
 
 <p>
-  <strong>Url:</strong>
-  <%= @publication.url %>
-</p>
-
-<p>
   <strong>Page one url:</strong>
   <%= @publication.page_one_url %>
 </p>
+<%= image_tag(@publication.page_one_url) %>
+</div>
 
+<div class="col-sm-4">
+<% if @publication.doi %>
 <p>
-  <strong>Doi:</strong>
-  <%= @publication.doi %>
+  <strong>DOI:</strong>
+  <%= link_to_doi @publication.doi %>
 </p>
-
+<% elsif @publication.url %>
 <p>
-  <strong>Mr:</strong>
-  <%= @publication.mr %>
+  <strong>URL:</strong>
+  <%= @publication.url %>
 </p>
+<% end %>
+</div>
 
-<p>
-  <strong>Zbl:</strong>
-  <%= @publication.zbl %>
-</p>
+<div class="col-sm-4">
+  <strong>Reviews:</strong>
+  <%= link_to_mr @publication.mr if @publication.mr %>
+  <%= link_to_zbl(@publication.zbl) if @publication.zbl %>
+</div>
 
-<p>
-  <strong>Owp:</strong>
+<div class="col-sm-4">
+  <strong>Preprints:</strong>
   <%= @publication.owp %>
-</p>
 
 <p>
-  <strong>Arxiv:</strong>
+  arXiv:
   <%= @publication.arxiv %>
 </p>
+</div>
 
 <%= link_to 'Edit', edit_publication_path(@publication) %> |
 <%= link_to 'Back', publications_path %>
